@@ -10,7 +10,7 @@ To add your own sprite, costume, sound or content to PenguinMod:
 When you have added one of these, make sure to list what the name of the item(s) are in your Pull Request.
 
 Important notes:
-- You will only be credited on the [Credits page](https://studio.penguinmod.com/credits.html) in a list of people, similar to extension submitters
+- You will only be credited on the [Credits page](https://studio.tutelmod.com/credits.html) in a list of people, similar to extension submitters
 - Extremely low quality content likely will not appear on PenguinMod, stuff like a poorly drawn stickman or kids reading out voice lines over their phone's microphone.
 
 ## Costumes
